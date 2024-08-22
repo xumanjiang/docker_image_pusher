@@ -1,6 +1,3 @@
 nginx
-#支持私库
-svnedge/app:latest
-nginx:latest
 #支持指定架构
 --platform=linux/arm64

@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx
+cym1102/svnwebui

@@ -1,1 +1,1 @@
-cym1102/svnwebui
+vyos/vyos-build:sagitta

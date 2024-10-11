@@ -1,1 +1,2 @@
-vyos/vyos-build:sagitta
+openresty/openresty:1.25.3.2-0-centos7
+--platform=linux/amd64

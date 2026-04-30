@@ -1,1 +1,1 @@
-cym1102/svnwebui:1.9.0
+python:3.12-slim

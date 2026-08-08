@@ -1,1 +1,1 @@
-ubuntu:24.04
+cym1102/svnwebui:1.9.3
